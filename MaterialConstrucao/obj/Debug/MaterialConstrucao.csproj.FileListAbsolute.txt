@@ -1,0 +1,60 @@
+A:\IFSP\4º Período\Linguagem de Programação 1\Projetos Aula\MaterialConstrucao\MaterialConstrucao\bin\Debug\MaterialConstrucao.exe.config
+A:\IFSP\4º Período\Linguagem de Programação 1\Projetos Aula\MaterialConstrucao\MaterialConstrucao\bin\Debug\MaterialConstrucao.exe
+A:\IFSP\4º Período\Linguagem de Programação 1\Projetos Aula\MaterialConstrucao\MaterialConstrucao\bin\Debug\MaterialConstrucao.pdb
+A:\IFSP\4º Período\Linguagem de Programação 1\Projetos Aula\MaterialConstrucao\MaterialConstrucao\obj\Debug\MaterialConstrucao.csproj.AssemblyReference.cache
+A:\IFSP\4º Período\Linguagem de Programação 1\Projetos Aula\MaterialConstrucao\MaterialConstrucao\obj\Debug\MaterialConstrucao.Properties.Resources.resources
+A:\IFSP\4º Período\Linguagem de Programação 1\Projetos Aula\MaterialConstrucao\MaterialConstrucao\obj\Debug\MaterialConstrucao.csproj.GenerateResource.cache
+A:\IFSP\4º Período\Linguagem de Programação 1\Projetos Aula\MaterialConstrucao\MaterialConstrucao\obj\Debug\MaterialConstrucao.csproj.CoreCompileInputs.cache
+A:\IFSP\4º Período\Linguagem de Programação 1\Projetos Aula\MaterialConstrucao\MaterialConstrucao\obj\Debug\MaterialConstrucao.exe
+A:\IFSP\4º Período\Linguagem de Programação 1\Projetos Aula\MaterialConstrucao\MaterialConstrucao\obj\Debug\MaterialConstrucao.pdb
+A:\IFSP\4º Período\Linguagem de Programação 1\Projetos Aula\MaterialConstrucao\MaterialConstrucao\obj\Debug\MaterialConstrucao.CadastroCliente.resources
+A:\IFSP\4º Período\Linguagem de Programação 1\Projetos Aula\MaterialConstrucao\MaterialConstrucao\bin\Debug\MySql.Data.dll
+A:\IFSP\4º Período\Linguagem de Programação 1\Projetos Aula\MaterialConstrucao\MaterialConstrucao\bin\Debug\Google.Protobuf.dll
+A:\IFSP\4º Período\Linguagem de Programação 1\Projetos Aula\MaterialConstrucao\MaterialConstrucao\bin\Debug\Zstandard.Net.dll
+A:\IFSP\4º Período\Linguagem de Programação 1\Projetos Aula\MaterialConstrucao\MaterialConstrucao\bin\Debug\K4os.Compression.LZ4.Streams.dll
+A:\IFSP\4º Período\Linguagem de Programação 1\Projetos Aula\MaterialConstrucao\MaterialConstrucao\bin\Debug\BouncyCastle.Crypto.dll
+A:\IFSP\4º Período\Linguagem de Programação 1\Projetos Aula\MaterialConstrucao\MaterialConstrucao\bin\Debug\Ubiety.Dns.Core.dll
+A:\IFSP\4º Período\Linguagem de Programação 1\Projetos Aula\MaterialConstrucao\MaterialConstrucao\bin\Debug\System.Memory.dll
+A:\IFSP\4º Período\Linguagem de Programação 1\Projetos Aula\MaterialConstrucao\MaterialConstrucao\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+A:\IFSP\4º Período\Linguagem de Programação 1\Projetos Aula\MaterialConstrucao\MaterialConstrucao\bin\Debug\System.Buffers.dll
+A:\IFSP\4º Período\Linguagem de Programação 1\Projetos Aula\MaterialConstrucao\MaterialConstrucao\bin\Debug\K4os.Compression.LZ4.dll
+A:\IFSP\4º Período\Linguagem de Programação 1\Projetos Aula\MaterialConstrucao\MaterialConstrucao\bin\Debug\K4os.Hash.xxHash.dll
+A:\IFSP\4º Período\Linguagem de Programação 1\Projetos Aula\MaterialConstrucao\MaterialConstrucao\bin\Debug\System.Numerics.Vectors.dll
+A:\IFSP\4º Período\Linguagem de Programação 1\Projetos Aula\MaterialConstrucao\MaterialConstrucao\bin\Debug\MySql.Data.xml
+A:\IFSP\4º Período\Linguagem de Programação 1\Projetos Aula\MaterialConstrucao\MaterialConstrucao\obj\Debug\MaterialConstrucao.csproj.CopyComplete
+A:\IFSP\4º Período\Linguagem de Programação 1\Projetos Aula\MaterialConstrucao\MaterialConstrucao\obj\Debug\MaterialConstrucao.frmPrincipal.resources
+A:\IFSP\4º Período\Linguagem de Programação 1\Projetos Aula\MaterialConstrucao\MaterialConstrucao\obj\Debug\MaterialConstrucao.Sobre.resources
+A:\IFSP\4º Período\Linguagem de Programação 1\Projetos Aula\MaterialConstrucao\MaterialConstrucao\obj\Debug\MaterialConstrucao.CadastroProduto.resources
+A:\IFSP\4º Período\Linguagem de Programação 1\Projetos Aula\MaterialConstrucao\MaterialConstrucao\obj\Debug\MaterialConstrucao.CadastroFuncionario.resources
+A:\IFSP\4º Período\Linguagem de Programação 1\Projetos Aula\MaterialConstrucao\MaterialConstrucao\obj\Debug\MaterialConstrucao.CadastroPedido.resources
+A:\IFSP\4º Período\Linguagem de Programação 1\Projetos Aula\MaterialConstrucao\MaterialConstrucao\obj\Debug\MaterialConstrucao.frmConsulta.resources
+C:\Users\caio_\OneDrive\Área de Trabalho\MaterialConstrucao\MaterialConstrucao\bin\Debug\MaterialConstrucao.exe.config
+C:\Users\caio_\OneDrive\Área de Trabalho\MaterialConstrucao\MaterialConstrucao\bin\Debug\MaterialConstrucao.exe
+C:\Users\caio_\OneDrive\Área de Trabalho\MaterialConstrucao\MaterialConstrucao\bin\Debug\MaterialConstrucao.pdb
+C:\Users\caio_\OneDrive\Área de Trabalho\MaterialConstrucao\MaterialConstrucao\bin\Debug\MySql.Data.dll
+C:\Users\caio_\OneDrive\Área de Trabalho\MaterialConstrucao\MaterialConstrucao\bin\Debug\Google.Protobuf.dll
+C:\Users\caio_\OneDrive\Área de Trabalho\MaterialConstrucao\MaterialConstrucao\bin\Debug\Zstandard.Net.dll
+C:\Users\caio_\OneDrive\Área de Trabalho\MaterialConstrucao\MaterialConstrucao\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\caio_\OneDrive\Área de Trabalho\MaterialConstrucao\MaterialConstrucao\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\caio_\OneDrive\Área de Trabalho\MaterialConstrucao\MaterialConstrucao\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\caio_\OneDrive\Área de Trabalho\MaterialConstrucao\MaterialConstrucao\bin\Debug\System.Memory.dll
+C:\Users\caio_\OneDrive\Área de Trabalho\MaterialConstrucao\MaterialConstrucao\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\caio_\OneDrive\Área de Trabalho\MaterialConstrucao\MaterialConstrucao\bin\Debug\System.Buffers.dll
+C:\Users\caio_\OneDrive\Área de Trabalho\MaterialConstrucao\MaterialConstrucao\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\caio_\OneDrive\Área de Trabalho\MaterialConstrucao\MaterialConstrucao\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\caio_\OneDrive\Área de Trabalho\MaterialConstrucao\MaterialConstrucao\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\caio_\OneDrive\Área de Trabalho\MaterialConstrucao\MaterialConstrucao\bin\Debug\MySql.Data.xml
+C:\Users\caio_\OneDrive\Área de Trabalho\MaterialConstrucao\MaterialConstrucao\obj\Debug\MaterialConstrucao.csproj.AssemblyReference.cache
+C:\Users\caio_\OneDrive\Área de Trabalho\MaterialConstrucao\MaterialConstrucao\obj\Debug\MaterialConstrucao.CadastroCliente.resources
+C:\Users\caio_\OneDrive\Área de Trabalho\MaterialConstrucao\MaterialConstrucao\obj\Debug\MaterialConstrucao.CadastroFuncionario.resources
+C:\Users\caio_\OneDrive\Área de Trabalho\MaterialConstrucao\MaterialConstrucao\obj\Debug\MaterialConstrucao.CadastroPedido.resources
+C:\Users\caio_\OneDrive\Área de Trabalho\MaterialConstrucao\MaterialConstrucao\obj\Debug\MaterialConstrucao.CadastroProduto.resources
+C:\Users\caio_\OneDrive\Área de Trabalho\MaterialConstrucao\MaterialConstrucao\obj\Debug\MaterialConstrucao.frmConsulta.resources
+C:\Users\caio_\OneDrive\Área de Trabalho\MaterialConstrucao\MaterialConstrucao\obj\Debug\MaterialConstrucao.frmPrincipal.resources
+C:\Users\caio_\OneDrive\Área de Trabalho\MaterialConstrucao\MaterialConstrucao\obj\Debug\MaterialConstrucao.Properties.Resources.resources
+C:\Users\caio_\OneDrive\Área de Trabalho\MaterialConstrucao\MaterialConstrucao\obj\Debug\MaterialConstrucao.Sobre.resources
+C:\Users\caio_\OneDrive\Área de Trabalho\MaterialConstrucao\MaterialConstrucao\obj\Debug\MaterialConstrucao.csproj.GenerateResource.cache
+C:\Users\caio_\OneDrive\Área de Trabalho\MaterialConstrucao\MaterialConstrucao\obj\Debug\MaterialConstrucao.csproj.CoreCompileInputs.cache
+C:\Users\caio_\OneDrive\Área de Trabalho\MaterialConstrucao\MaterialConstrucao\obj\Debug\MaterialConstrucao.csproj.CopyComplete
+C:\Users\caio_\OneDrive\Área de Trabalho\MaterialConstrucao\MaterialConstrucao\obj\Debug\MaterialConstrucao.exe
+C:\Users\caio_\OneDrive\Área de Trabalho\MaterialConstrucao\MaterialConstrucao\obj\Debug\MaterialConstrucao.pdb

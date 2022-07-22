@@ -1,0 +1,4 @@
+servidor = localhost
+database = material_construcao
+usuario = root
+senha = 
